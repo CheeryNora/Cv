@@ -1,0 +1,7 @@
+a {color: black;}
+body {max-width: 75%;margin: auto; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.contact { background-color: rgb(160, 253, 253); ppadding: 20px 40px; border-radius:5px ; -webkit-border-radius:; -moz-border-radius:; -ms-border-radius:; -o-border-radius:;
+}
+.avatar { border-radius:25px ; -webkit-border-radius:25px ; -moz-border-radius:25px ; -ms-border-radius:25px ; -o-border-radius:25px ; }
+.text { background-color: rgb(238, 252, 209); border-radius:20px ; -webkit-border-radius:20px ; -moz-border-radius:20px ; -ms-border-radius:20px ; -o-border-radius:20px ;padding: 20px; }
+.lol {color: rgb(133, 133, 133);}
